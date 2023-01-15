@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-deploy-3.git/static/css/main.707ab833.css",
+    "main.js": "/react-deploy-3.git/static/js/main.ca437614.js",
+    "index.html": "/react-deploy-3.git/index.html",
+    "main.707ab833.css.map": "/react-deploy-3.git/static/css/main.707ab833.css.map",
+    "main.ca437614.js.map": "/react-deploy-3.git/static/js/main.ca437614.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707ab833.css",
+    "static/js/main.ca437614.js"
+  ]
+}
